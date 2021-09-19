@@ -74,7 +74,7 @@ A summary of the access policies in place can be found in the table below.
 RedTeamDVWALB     | Load Balancer | From 24.27.48.220 over port 80 DVWA 
 
 
-### Elk Configuration
+### ELK Configuration
 
 Ansible was used to automate configuration of the ELK machine. No configuration was performed manually, which is advantageous because...
 
@@ -113,3 +113,9 @@ SSH into the control node and follow the steps below:
 - Copy the install-elk.yml file to /etc/ansible/ directory.
 - Update the hosts file to include the machine that will be configured via playbook
 - Run the playbook, and navigate to http://40.76.252.27:5601/ to check that the installation worked as expected.
+
+
+### Additional Linux Systems Administration - Resources
+
+[Linux Systems Administration](Linux/linux-files.md)
+
