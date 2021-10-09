@@ -78,9 +78,10 @@ Once you have identified this vulnerability, answer the following questions for 
 
 What is the vulnerability:
 > Samba, SMB 3 
+
 Why is it dangerous:
 
-Samba versions 3.6.3 and all versions previous to this are affected by a vulnerability that allows remote code execution as the "root" user from an anonymous connection. 
+> Samba versions 3.6.3 and all versions previous to this are affected by a vulnerability that allows remote code execution as the "root" user from an anonymous connection. 
 
 What mitigation strategies can you recommendations for the client to protect their server:
 >"Samba contains a "hosts allow" parameter that can be used inside
