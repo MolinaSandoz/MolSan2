@@ -53,7 +53,7 @@ Run the module.
 Is Altoro Mutual vulnerable to XSS:
 
 >Yes (see image)
-![Altoro Mutual XSS vulernable picture snippet](Images/hector_molina_sandoz_altoro_mutual_xss.png)
+![Altoro Mutual XSS vulernable picture snippet](Images/hector_molina_sandoz_altoro_mutual_xss.PNG)
 
 
 
