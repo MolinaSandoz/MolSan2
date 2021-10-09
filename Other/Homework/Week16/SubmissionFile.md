@@ -42,7 +42,7 @@ What open ports and running services did Shodan find:
 
 >Open ports: 80, 443, 8080
 
-Apache Tomcat/Coyote JSP engine1.1
+>Apache Tomcat/Coyote JSP engine1.1
 
 ---
 
