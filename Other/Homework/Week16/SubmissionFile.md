@@ -34,6 +34,8 @@ What is the company they use to store their infrastructure:
 What is the IP address of the DNS server:
 
 >65.61.137.117
+>> nslookup demo.testfire.net
+>>> primary name server = asia3.akam.net
 
 ---
 
